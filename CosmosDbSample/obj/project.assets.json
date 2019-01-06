@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample.csproj",
+      "projectUniqueName": "D:\\GitHub\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample.csproj",
       "projectName": "CosmosDbSample",
-      "projectPath": "D:\\GitHub\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample.csproj",
+      "projectPath": "D:\\GitHub\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample.csproj",
       "packagesPath": "C:\\Users\\vishn\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CosmosDbSample\\CosmosDbSample\\CosmosDbSample\\obj\\",
+      "outputPath": "D:\\GitHub\\CosmosDbSample\\CosmosDbSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
